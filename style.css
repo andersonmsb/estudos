@@ -1,0 +1,30 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#97FEED;
+}
+
+.title{
+    text-transform: uppercase;
+    
+}
+
+.destaque{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sombra{
+    text-shadow: 8px 8px 4px black;
+    padding: 30px;
+    letter-spacing: 3px;
+}
+
+.justificado{
+    text-align: justify;
+}
+
+.font{
+    font-style: italic;
+    font-weight: bold;
+    color:red;
+}
