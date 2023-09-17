@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+}
+.container{
+   width: 100vw;
+   height: 100vh;
+}
+.box{
+    width: 300px;
+    height: 420px;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    background: #303030;
+}
+
+.num{
+    border-radius: 5px;
+    height: 40px;
+    margin-top: 30px;
+    width: 220px;
+    font-size: 25px;
+    color: #4F4F4F;
+    text-align: right;
+    padding-right: 10px;
+    border: 2px solid black;
+    background: white;
+}
+
+button{
+    border-radius: 5px;
+    background: #3A3942;
+    color: #C0C0C0; 
+    cursor: pointer;
+}
+
+.d1{
+    margin: 20px 0 8px;
+}
+
+.c{
+    border-radius: 5px;
+    background: #3A3942;
+    color: #C0C0C0;
+    width: 135px;
+    height: 52px;
+}
+
+.barra{
+    width: 65px;
+    height: 52px;
+}
+
+.x{
+    width: 65px;
+    height: 52px;
+}
+
+.sete{
+    width: 65px;
+    height: 52px;
+}
+
+.oito{
+    width: 65px;
+    height: 52px;
+}
+
+.nove{
+    width: 65px;
+    height: 52px;
+}
+
+.menos{
+    width: 65px;
+    height: 52px;
+}
+
+.d3{
+    margin: 8px 0;
+    padding: 0 6.4px;
+}
+
+.quatro{
+    width: 65px;
+    height: 52px;
+}
+
+.cinco{
+    width: 65px;
+    height: 52px;
+}
+
+.seis{
+    width: 65px;
+    height: 52px;
+}
+
+.mais{
+    width: 65px;
+    height: 52px;
+}
+
+.d4{
+    margin-top: 8px;
+}
+
+.um{
+    width: 65px;
+    height: 52px;
+    float: left;
+    margin-left: 12px;
+}
+
+.dois{
+    width: 65px;
+    height: 52px;
+    float: left;
+    margin-left: 5px;
+}
+
+.tres{
+    float: left;
+    width: 65px;
+    height: 52px;
+    margin-left: 5px;
+}
+
+.igual{
+    height: 110px;
+    width: 65px;
+}
+
+.d5{
+    margin-top: -50px;  
+    margin-right: 70px; 
+}
+
+.zero{
+    width: 135px;
+    height: 52px;
+}
+
+.ponto{
+    width: 65px;
+    height: 52px;
+}
+
+button:hover{
+    background: #26262C;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+
